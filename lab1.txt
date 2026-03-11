@@ -1,1 +1,5 @@
-hello github, hi there good morning
+<<<<<<< HEAD
+hello , this is varsha
+=======
+hello, this is varsha
+>>>>>>> feature1
