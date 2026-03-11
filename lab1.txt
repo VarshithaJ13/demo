@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hello , this is varsha
-=======
 hello, this is varsha
->>>>>>> feature1
